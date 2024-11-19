@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "687031604465",
+    "firebase_url": "https://yogau-dd011-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yogau-dd011",
+    "storage_bucket": "yogau-dd011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687031604465:android:00533221e133c15f138550",
+        "android_client_info": {
+          "package_name": "com.example.yoga_center_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_OA5-Rgl457MeFoiWmDaAItC38DF6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687031604465:android:a5018debe196407a138550",
+        "android_client_info": {
+          "package_name": "com.example.yogau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_OA5-Rgl457MeFoiWmDaAItC38DF6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
